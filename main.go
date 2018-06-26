@@ -1,7 +1,7 @@
 package main
 
 import (
-	"denyssh/readsecure"
+	"github.com/yangyouwei/denyssh/readsecure"
 	"fmt"
 )
 var LOGS chan string = make(chan string)
